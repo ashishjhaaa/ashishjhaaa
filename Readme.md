@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashish Jha</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
-- 🔭 I’m currently working on Prescripto – a MERN stack project.
+🔭 I’m currently working on Prescripto – a MERN stack project.
 
 - 💻 Exploring and building **MERN stack applications**.
 
