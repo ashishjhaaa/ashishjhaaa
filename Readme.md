@@ -1,37 +1,39 @@
 <h1 align="center">Hi 👋, I'm Ashish Jha</h1>
-<h3 align="center">A passionate backend developer from India.</h3>
-- 🔭 I’m currently working on Attendance Management System
+<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+- 🔭 I’m currently working on **Prescripto** – a MERN stack project.
 
-- 🌱 I’m currently learning **React** for great user experience
+- 💻 Exploring and building **MERN stack applications**.
 
-- 👯 I’m looking to collaborate on **Open Source**
-
-- 👨‍💻 All of my projects are available at [ashishjhaaa](https://github.com/ashishjhaaa)
-
-- 📫 How to reach me **ashish.jhaaaaa@gmail.com**
-
-- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1bZXw4MHvcHAcMfrpuJXmDbeRnvjXTYIt/view)
+- 👯 I’m open to collaborating on **Full Stack & Open Source Projects**.
+  
+- 🎯 Passionate about solving **real-world problems** through code.
+  
+- 🌱 Currently enhancing my **React & Backend** skills for scalable applications.
+  
+- 🚀 For more projects, check out my **[GitHub Profile](https://github.com/ashishjhaaa)**.
+  
+- 📫 Reach me at **ashish.jhaaaaa@gmail.com**.
 
 - ⚡ Fun fact **Think - Learn - Apply**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://codeforces.com/profile/ashishjhaaa" target="_blank">
+    <a href="https://codeforces.com/profile/" target="_blank">
         <img align="center"
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbvUaOn8X2nyoTwuisq1qvbv14dcVrOPNswVOthdU6pg&s"
             alt="https://codeforces.com/profile/ashishjhaaa" height="30" width="40">
     </a>
-    <a href="https://www.leetcode.com/profile/AJ_25" target="_blank">
+    <a href="https://www.leetcode.com/profile/" target="_blank">
         <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
             alt="https://www.leetcode.com/profile/AJ_25" height="30" width="40">
     </a>
-    <a href="https://www.hackerrank.com/profile/ashishjhaaa" target="_blank">
+    <a href="https://www.hackerrank.com/profile/" target="_blank">
         <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
             alt="https://www.hackerrank.com/profile/ashishjhaaa" height="30" width="40">
     </a>
-    <a href="https://www.linkedin.com/in/ashishjhaaaaa" target="_blank">
+    <a href="https://www.linkedin.com/in/" target="_blank">
         <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="www.linkedin.com/in/ashishjhaaaaa" height="30" width="40">
